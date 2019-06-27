@@ -14,7 +14,7 @@ In your `build.gradle`:
 
 ```gradle
  dependencies {
-   compile 'tyrant:heartlayout:1.0.1'
+   implementation 'tyrant:heartlayout:1.0.1'
  }
 ```
 
